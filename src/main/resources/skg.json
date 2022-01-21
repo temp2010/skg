@@ -1,10 +1,10 @@
 {
 	"type": "service_account",
 	"project_id": "true-vista-338900",
-	"private_key_id": "b4f0d06e43096257f48c6ef6e393be5582094932",
-	"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDMaPUutaDStpVD\nZoT9KbgSEtQB9Uh1WptB90lnS0J6bVI+1+fV7w+EgRjIuviL5CT/6jn7smXPc/EQ\n6Vzx07w9HjucuaTRswBaslhvQjijlZqFTbQqmyiNYKWY7HLewegX7n+Yt5Ocwn28\nisGf+mE69c8e5xUkxDH3WWf94QcU9gASxRDJHk2l+FpAu/I2ebKAgH7ZztcMRSaB\no2BNevsuCnPyUtVMjXFA8kyfoqHhHH9gRLJep40vZ6823NAXuy0Yw4/zvZ4KEdRn\nFrvK4QhVSCqAFJNcnI6O31YfDby2aqQWPNmayr8Wa7FQn071ib8gvL1zI/uWEmhZ\nICUOBWC5AgMBAAECggEACdNcv8VKyP4uUBpYN6we9T1y8/IkrMFxd5sJq/2t4SEq\npCswMXQnmIy1EocMRfsuPR/28A6b/rwZwSCaj2RIZt6yal7xGYRjdriecCCshM5+\n6jv5NlgVe7BC3YY2IleLTsUv3Hksjws5TIwV8RjxvgoNTfS5KzaEGVnymf1MYBk6\nB0Gs62GHHSvi07T9Og+I2EJtb6K7Vx9mIbZ5LxRzELzQGxEyAjWiiD/9VbRqTHR5\nv2wfvS3FbFXHGGRv0VY52Aw/R+8+rGEOZ1MlvK5lmfIzDYbjRK296edO1lGNwkwq\nVriY7CDRUl0NhRvw9ObpA3fvtJaWvMepI2gU82t9IQKBgQD41woOKM82m8E/iGCp\ngkdEu9oLrL/CYEbVIFX2O9EZ+3VrcVaFEaFUpW3jPXOQ3hq2hN77xk+NqR9eLmro\nixdbXdsnC+/R01Gj4BcRaLQV+o7yJYUsZFMaBgEO/KL+DxgE/sISQBEYdIk9oXve\npPdd5wBZLwGfSNLTJDbo/Rl8UQKBgQDSSqVmdCWGMSklw6/8dFfmHZyKSlIF/s08\nBOCHn82Aepyae6Ns50+ZYGBDS7wefeAQavBv5ENju+ZmWc6rfmpPi1IbUyaW6lL9\nPU8Ycsh2PMDmTMp06+S4w4W9/f/giD7iOXkkTSevhBdnituD6XWZXjosWt0zAqL0\nTLlCm4/L6QKBgDxJrS/9BycN2WYRHooy/B1U/eDyO4tWVBLywKDloSWQXMRpMzMO\nMG4XnmX9z2/7v7EUxAlv5HpHzUe+Kzyn5kLGnH/7TmEht5fihPQ8z9S7XcKhAIDe\n1ZtqdPsyjjLLaWBccJyHVRz9rvp1k1M/2Iaxns38q4Hx3NI25e7Q00nhAoGAaqvq\n0tm/3x443SsyrkDmBZinu46PpPLncLaYnrN1LuMDZWmqMKf1PLwimIBmYKFBc5KL\nfHaxqHm8GdcceumZS9hEQhAf1xXuGv9qi+BNx4xx3WC+oii20PJ9eS7LCT6Th3XX\n+Y4Zv3Kl3KQXTgay3KVrpOxCoImJ15rDrwHyI2ECgYBgYCKU7GyHE4jreK3q3OoS\n+s7oAU/19O2txovrOPFILEnLvMMPidFqdC7hNC1kqkEFTi0xZ3YfBXIgwbfMmPfB\nIV3TKVtZ598aU76Qhk8sZDrdINU0j3kbTKrhublBJCL8Oklgs2YdWa5kCQ5Ydb79\nFTDAvGxmEi1geN25ad6Y6A==\n-----END PRIVATE KEY-----\n",
+	"private_key_id": "xxx",
+	"private_key": "xxx",
 	"client_email": "skg-873@true-vista-338900.iam.gserviceaccount.com",
-	"client_id": "108292300940632016203",
+	"client_id": "xxx",
 	"auth_uri": "https://accounts.google.com/o/oauth2/auth",
 	"token_uri": "https://oauth2.googleapis.com/token",
 	"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
